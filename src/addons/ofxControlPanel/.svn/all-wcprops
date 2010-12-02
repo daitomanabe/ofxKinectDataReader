@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel
+END
+guiTypeSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeSlider.h
+END
+simpleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/simpleLogger.h
+END
+guiTypeText.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeText.h
+END
+guiCustomImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiCustomImpl.h
+END
+guiXmlValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiXmlValue.h
+END
+guiTypeMultiToggle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeMultiToggle.h
+END
+guiTypePanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypePanel.h
+END
+guiBaseObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiBaseObject.h
+END
+ofxControlPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/ofxControlPanel.cpp
+END
+guiTypeFileLister.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeFileLister.h
+END
+guiIncludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiIncludes.h
+END
+simpleFileLister.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/simpleFileLister.h
+END
+ofxControlPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/ofxControlPanel.h
+END
+guiType2DSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiType2DSlider.h
+END
+guiValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiValue.h
+END
+guiTypeCustom.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeCustom.h
+END
+guiColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiColor.h
+END
+guiTextBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTextBase.h
+END
+guiTypeLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeLogger.h
+END
+guiTypeDrawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeDrawable.h
+END
+guiTypeToggle.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/guiTypeToggle.h
+END
+simpleColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/knaveAddons/ofxControlPanel/simpleColor.h
+END
